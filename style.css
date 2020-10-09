@@ -1,0 +1,30 @@
+body {
+  text-align: center;
+  font-family: 'Lato';
+  color: #00204E;
+  background-color: #000;
+  background-image: url('./images/background.png');
+  background-size: cover;
+  background-repeat:no-repeat;
+}
+
+h1 {
+    padding-left: 4.5%;
+    padding-top: 0.25em;
+    text-align: left;
+    font-size: 2em;
+}
+
+div {
+    padding: 0.5em;
+}
+
+p {
+    font-size: 0.8em;
+    margin: 0 0 0.5% 0;
+    font-weight: 700;
+}
+
+video {
+  width: 60%
+}
