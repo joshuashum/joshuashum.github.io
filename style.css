@@ -19,12 +19,12 @@ body {
 }
 
 h1 a {
-    color: #efaf23;
+    color: #efaf23!important;
     text-decoration: underline dotted black;
 }
 
 h1 a:hover {
-    text-decoration: underline solid #efaf23;
+    text-decoration: underline solid #efaf23!important;
     transition: all ease 0.3s;
 }
 
@@ -34,12 +34,12 @@ p {
 }
 
 p a {
-    color: black;
+    color: black!important;
     text-decoration: underline dotted black;
 }
 
 p a:hover {
-    color: #efaf23;
+    color: #efaf23!important;
     font-weight: 700;
     text-decoration: underline solid #efaf23;
     transition: all ease 0.3s;
