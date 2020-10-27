@@ -25,10 +25,13 @@ h1 a:hover {
     transition: all ease 0.3s;
 }
 
-
 p {
     font-size: 1em;
 }
+
+p.subtitle {
+    font-size: 0.4em!important;
+  }  
 
 p a {
     color: black!important;

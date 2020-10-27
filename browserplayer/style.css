@@ -28,10 +28,6 @@ p {
     font-weight: 700;
 }
 
-p.subtitle {
-  font-size: 0.4em!important;
-}
-
 video {
    width: 60%;
    height: auto;
