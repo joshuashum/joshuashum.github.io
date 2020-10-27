@@ -1,0 +1,47 @@
+body {
+  text-align: center;
+  font-family: 'Lato';
+  color: #00204E;
+  background-color: #000;
+  background-image: url('./images/background.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+}
+
+h1 {
+    padding-left: 4.5%;
+    padding-top: 0.25em;
+    text-align: left;
+    font-size: 2em;
+}
+
+div {
+    padding-top: 2em!important;  
+    padding: 0.5em;
+}
+
+p {
+    font-size: 0.8em;
+    color: #00204E;
+    background: #fff;
+    width: 20%;
+    border-radius: 5px;
+    border-color: #00204E;
+    margin: 0 auto 0.5% auto;
+    font-weight: 700;
+}
+
+video {
+   width: 80%;
+   height: auto;
+}
+
+@media only screen and (max-width: 767px) {
+  body {
+    /* The file size of this background image is 93% smaller
+       to improve page load speed on mobile internet connections */
+    background-image: url("");
+  }
+}
