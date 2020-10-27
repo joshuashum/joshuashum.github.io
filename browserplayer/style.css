@@ -28,8 +28,8 @@ p {
     font-weight: 700;
 }
 
-.subtitle {
-  font-size: 0.4em;
+p.subtitle {
+  font-size: 0.4em!important;
 }
 
 video {
