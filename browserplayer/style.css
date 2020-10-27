@@ -28,6 +28,10 @@ p {
     font-weight: 700;
 }
 
+p2 {
+  font-size: 0.4em;
+}
+
 video {
    width: 60%;
    height: auto;
